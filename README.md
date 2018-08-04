@@ -190,3 +190,5 @@ Please cite these papers in your publications if it helps your research (the fac
 ## License
 OpenPose is freely available for free non-commercial use, and may be redistributed under these conditions. Please, see the [license](LICENSE) for further details. [Interested in a commercial license? Check this link](https://flintbox.com/public/project/47343/). For commercial queries, contact [Yaser Sheikh](http://www.cs.cmu.edu/~yaser/).
 # openpose-replicates
+![](https://github.com/NoMorningstar/openpose-replicates/blob/master/pose.gif)
+![](https://github.com/NoMorningstar/openpose-replicates/blob/master/pose-hand.gif)
